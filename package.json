@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mappum/webcoin-bitcoin.git"
+    "url": "git+https://github.com/snogcel/webcoin-bitcoin.git"
   },
   "bugs": {
-    "url": "https://github.com/mappum/webcoin-bitcoin/issues"
+    "url": "https://github.com/snogcel/webcoin-bitcoin/issues"
   },
-  "homepage": "https://github.com/mappum/webcoin-bitcoin#readme"
+  "homepage": "https://github.com/snogcel/webcoin-bitcoin#readme"
 }
