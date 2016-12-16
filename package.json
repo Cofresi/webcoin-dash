@@ -1,7 +1,7 @@
 {
-  "name": "webcoin-bitcoin",
+  "name": "webcoin-dash",
   "version": "3.0.1",
-  "description": "Bitcoin parameters for Webcoin",
+  "description": "Dash parameters for Webcoin",
   "main": "index.js",
   "scripts": {
     "test": "standard index.js src && nyc tape test/index.js | faucet && nyc report",
@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snogcel/webcoin-bitcoin.git"
+    "url": "git+https://github.com/cofresi/webcoin-dash.git"
   },
   "bugs": {
-    "url": "https://github.com/snogcel/webcoin-bitcoin/issues"
+    "url": "https://github.com/cofresi/webcoin-dash/issues"
   },
-  "homepage": "https://github.com/snogcel/webcoin-bitcoin#readme"
+  "homepage": "https://github.com/cofresi/webcoin-dash#readme"
 }
